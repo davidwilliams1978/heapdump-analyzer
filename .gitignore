@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gradle/
+.idea/
+build/
+heapdump-analyzer.iml
+heapdump-analyzer.ipr
+heapdump-analyzer.iws
